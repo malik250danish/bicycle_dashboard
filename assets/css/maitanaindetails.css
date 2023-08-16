@@ -1,0 +1,24 @@
+
+.mainataindetails{
+    background: #ECEFF3 !important;
+}
+.mainataindetails h1{
+ color: #343A40;
+font-family: Poppins;
+font-size: 30px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+
+}
+.formgrouplable label{
+    color: #343A40;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.foramgroupsecond label{
+    font-size: 12px !important;
+}
